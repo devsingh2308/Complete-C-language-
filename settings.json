@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "01_first.C": "cpp",
+        "02.second.C": "cpp",
+        "01_Variable.C": "cpp",
+        "02_Datatypes.C": "cpp",
+        "03_sizeof.C": "cpp"
+    }
+}
